@@ -10,3 +10,6 @@ https://pixspy.com/
 
 Fluoroscopy Presentation
 https://www.youtube.com/watch?v=8gB1cI23xTQ
+
+Direct vs Indirect Flat Panel Detector 
+https://spectrumxray.com/indirect-vs-direct-conversion-dr-detectors-which-technology-delivers-better-image-quality/
